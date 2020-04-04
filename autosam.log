@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.4)  4 APR 2020 17:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.4)  4 APR 2020 18:16
 entering extended mode
 **./autosam.tex
 (autosam.tex
@@ -454,7 +454,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
 Here is how much of TeX's memory you used:
  6193 strings out of 480931
  92562 string characters out of 2909553
- 360853 words of memory out of 3000000
+ 360885 words of memory out of 3000000
  21923 multiletter control sequences out of 15000+200000
  541085 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -471,7 +471,7 @@ mr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on autosam.pdf (4 pages, 2371320 bytes).
+Output written on autosam.pdf (4 pages, 2371336 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
