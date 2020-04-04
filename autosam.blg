@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7380 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: autosam.aux
+The style file: IEEEtran.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: autosam.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in thiery_ogham_2020
+
+Done.
+You've used 4 entries,
+            4087 wiz_defined-function locations,
+            844 strings with 7642 characters,
+and the built_in function-call counts, 1690 in all, are:
+= -- 125
+> -- 16
+< -- 3
++ -- 8
+- -- 4
+* -- 89
+:= -- 322
+add.period$ -- 8
+call.type$ -- 4
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 129
+empty$ -- 179
+format.name$ -- 4
+if$ -- 368
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 25
+newline$ -- 37
+num.names$ -- 4
+pop$ -- 58
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 129
+stack$ -- 0
+substring$ -- 3
+swap$ -- 81
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 4
+warning$ -- 1
+while$ -- 4
+width$ -- 5
+write$ -- 58
+(There was 1 warning)
